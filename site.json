@@ -1,7 +1,7 @@
 {
   "city": "Palermo",
   "domain": "carroattrezzipalermo24.it",
-  "brand": "TRINACRIA / STRADA",
+  "brand": "Trinacria Strada",
   "phone": null,
   "address": null,
   "email": "assistenza@carroattrezzipalermo24.it",
@@ -14,5 +14,12 @@
     "Isola delle Femmine"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "sun"
+  "theme": "sun",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Tre nastri di soccorso in rotazione, geometria solare e lettere slab robuste.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }
