@@ -1,0 +1,18 @@
+{
+  "city": "Palermo",
+  "domain": "carroattrezzipalermo24.it",
+  "brand": "TRINACRIA / STRADA",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@carroattrezzipalermo24.it",
+  "nearby": [
+    "Monreale",
+    "Bagheria",
+    "Villabate",
+    "Ficarazzi",
+    "Carini",
+    "Isola delle Femmine"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "sun"
+}
